@@ -4,7 +4,7 @@ int main()
 {
     printf("hola mundo  version 45");
 
-	printf("hola mundo  version  67");
+	printf("hola mundo  version");
     getchar();
 return 0;
 }
