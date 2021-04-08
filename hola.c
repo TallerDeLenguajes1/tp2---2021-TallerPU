@@ -2,7 +2,7 @@
 #include <string.h>
 int main()
 {
-    printf("hola mundo ");
+    printf("hola mundo  version 45");
     getchar();
 return 0;
 }
